@@ -3,7 +3,7 @@ import styled from './Styles.module.css'
 const clubes = [
   {
     estados:'São Paulo',
-    times:['Santos','Palmeiras','Corintians','São Paulo']
+    times:['Santos','Palmeiras','Corinthians','São Paulo']
   },
   {
     estados:'Rio de Janeiro',
